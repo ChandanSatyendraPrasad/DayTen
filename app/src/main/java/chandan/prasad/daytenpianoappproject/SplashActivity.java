@@ -31,6 +31,8 @@ public class SplashActivity extends AppCompatActivity {
             Manifest.permission.RECORD_AUDIO,
             };
 
+    /* SharedPreferences*/
+
     private SharedPreferences permissionStatus;
 
     // Now the sentToSettings variable can be created later that takes the user to the
